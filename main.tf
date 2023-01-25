@@ -1,4 +1,3 @@
-
 resource "aws_security_group" "Hannah_security" {
   name        = "Hotep_security"
   description = "security group using terraform"
